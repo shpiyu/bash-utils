@@ -17,7 +17,6 @@ cdmk() {
     fi
 }
 
-cdmk
-
+alias cd=cdmk
 
 
